@@ -29,3 +29,15 @@
     })
 
 })(jQuery); // End of use strict
+
+
+$(function(){
+    $("button").on({
+        mouseover:function(){
+            $(this).css({
+                left:(Math.random()*600)+"px",
+                top:(Math.random()*600)+"px",
+            });
+        }
+    });
+});

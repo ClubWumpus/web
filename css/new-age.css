@@ -181,6 +181,9 @@ header .header-content .header-content-inner .list-badges img {
   height: 50px;
   margin-bottom: 25px;
 }
+header .header-content .header-content-inner .discord-widget {
+  margin: 25px 0;
+}
 header .device-container {
   max-width: 300px;
   margin: 0 auto 100px;

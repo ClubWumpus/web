@@ -3,6 +3,39 @@
  * Copyright 2013-2016 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
  */
+
+ /*Glowing Wumpus (linked to flappy wumpus trailer)*/
+ @keyframes pulse {
+  0% {
+    opacity: 0;
+  }
+  40% {
+    opacity: 0.1;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+
+#glowingWumpus {
+    position: absolute;
+    top: 516px;
+    left: 339px;
+    z-index: 10001;
+}
+
+#glowingWumpus img {
+    width: 62px;
+    transition: all 0.4s linear;
+    animation: pulse 3.5s infinite;
+    animation-timing-function: ease;
+}
+
+#glowingWumpus img:hover {
+    opacity: 1 !important;
+    animation: none;
+}
+
 .heading-font {
   font-family: 'Catamaran', 'Helvetica', 'Arial', 'sans-serif';
   font-weight: 200;

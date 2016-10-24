@@ -106,6 +106,15 @@ p {
 .navbar-default .nav > li.active > a:focus:hover {
   background-color: transparent;
 }
+.navbar .navbar-btn {
+	border-color: #000;
+  transition: all 0.2s linear;
+}
+.navbar .navbar-btn:hover {
+	color:#fdcc52;
+	border-color:#fdcc52;
+	background: transparent;
+}
 @media (min-width: 768px) {
   .navbar-default {
     background-color: transparent;
@@ -145,6 +154,25 @@ p {
   .navbar-default.affix .nav > li > a:focus:hover {
     color: #fdcc52;
   }
+  .navbar .navbar-btn {
+	  background: rgba(255, 255, 255, 0);
+	  color: #fff;
+	  border-color: rgba(255, 255, 255, 0.7);
+	  transition: all 0.3s ease;
+	}
+	.navbar .navbar-btn:hover {
+	  background: #fff;
+	  color: #0a548c;
+	  border-color: #fff;
+	}
+	.navbar.affix .navbar-btn {
+	  color: #000;
+	  border-color: #000;
+	}
+	.navbar.affix .navbar-btn:hover {
+	  border-color: #fdcc52;
+	  color: #fdcc52;
+	}
 }
 header {
   position: relative;

@@ -36,6 +36,11 @@
     animation: none;
 }
 
+.bgames {
+    /* height: 500px; */
+    background: url("../img/games-showcase.png") no-repeat center center;
+}
+
 .heading-font {
   font-family: 'Catamaran', 'Helvetica', 'Arial', 'sans-serif';
   font-weight: 200;

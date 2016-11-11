@@ -14,7 +14,7 @@ Enjoy the games that are currently on there. I cannot continue this project anym
 
 Please remember the awesome memes we shared together. "The Wumpiverse" is also available to download for FREE. I cannot continue this anymore. It's been a tough journey and I hope you understand that I was just trying to tell my story in a creative, unique way.
 
-[Download here](noisetrade.com/wumpiverse/the-wumpiverse) - Remember the great times we have had. Don't be sad that it's over. Smile because it happened. Y'all are wonderful people. Stay safe and take care.
+[Download here](http://noisetrade.com/wumpiverse/the-wumpiverse) - Remember the great times we have had. Don't be sad that it's over. Smile because it happened. Y'all are wonderful people. Stay safe and take care.
 
 I hope you understand.
 

@@ -21,3 +21,8 @@ I hope you understand.
 Best,
 
 Jordan
+
+P.S: I've now handed this project over to the community. They will be continuing the project. 
+You can follow the team [here](https://github.com/clubwumpusteam).
+
+[New Fan Website here](https://clubwumpusteam.github.io/web/)

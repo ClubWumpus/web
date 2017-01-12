@@ -1,7 +1,7 @@
 # web
 The main landing page for all Wumpuses.
 
-# Deprecated/Abandoned project
+# Deprecated/Abandoned project [Revived on 12th January 2017]
 __Public Statement__
 
 Hi there,

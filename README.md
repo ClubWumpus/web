@@ -1,8 +1,13 @@
 # web
 The main landing page for all Wumpuses.
 
-# Deprecated/Abandoned project [Revived on 12th January 2017]
-__Public Statement__
+[Revived on 12th January 2017]
+
+As of 12th January 2017, CheeseCast has transferred the project over to the community. Please leave a legacy credit to the original creator while continuing this project. Thanks.
+
+---
+
+__Public Statement__ (Why CheeseCast left the project)
 
 Hi there,
 
